@@ -1,0 +1,86 @@
+2025-11-22 14:54:05 | INFO | DataStore | Loading FAQ data from: /workspaces/interavoice-voice-bot-/src/data/faqs.json
+2025-11-22 14:54:05 | ERROR | DataStore | FAQ file not found: /workspaces/interavoice-voice-bot-/src/data/faqs.json
+2025-11-22 14:54:05 | INFO | DataStore | Created sample FAQ file with 2 entries
+2025-11-22 14:54:05 | INFO | IntentEngine | IntentEngine initialized with threshold 0.55
+2025-11-22 14:54:06 | INFO | DataStore | Loading FAQ data from: /workspaces/interavoice-voice-bot-/src/data/faqs.json
+2025-11-22 14:54:06 | INFO | DataStore | Loaded 2 FAQ entries
+2025-11-22 14:54:06 | INFO | IntentEngine | IntentEngine initialized with threshold 0.55
+2025-11-22 14:54:31 | INFO | App | Serving UI page
+2025-11-22 14:57:35 | INFO | App | Received user message: what is AI
+2025-11-22 14:57:35 | INFO | IntentEngine | Finding intent for: what is AI
+2025-11-22 14:57:35 | INFO | IntentEngine | Compared with 'What is InteraVoice?' | Score 0.67
+2025-11-22 14:57:35 | INFO | IntentEngine | Compared with 'How much does it cost?' | Score 0.31
+2025-11-22 14:57:35 | INFO | IntentEngine | Match found: 'What is InteraVoice?' (score 0.67)
+2025-11-22 14:57:35 | INFO | App | Final answer: InteraVoice is a voice-enabled AI assistant designed to help with customer support and FAQs.
+2025-11-22 14:58:02 | INFO | App | Received user message: can you cancel my flight
+2025-11-22 14:58:02 | INFO | IntentEngine | Finding intent for: can you cancel my flight
+2025-11-22 14:58:02 | INFO | IntentEngine | Compared with 'What is InteraVoice?' | Score 0.23
+2025-11-22 14:58:02 | INFO | IntentEngine | Compared with 'How much does it cost?' | Score 0.26
+2025-11-22 14:58:02 | INFO | IntentEngine | No suitable match found for 'can you cancel my flight'
+2025-11-22 14:58:02 | INFO | App | Final answer: I'm not fully sure about that. Try asking about InteraVoice, support, or pricing.
+2025-11-22 14:58:36 | INFO | App | Received user message: is Rohit all good or complete worst
+2025-11-22 14:58:36 | INFO | IntentEngine | Finding intent for: is Rohit all good or complete worst
+2025-11-22 14:58:36 | INFO | IntentEngine | Compared with 'What is InteraVoice?' | Score 0.25
+2025-11-22 14:58:36 | INFO | IntentEngine | Compared with 'How much does it cost?' | Score 0.32
+2025-11-22 14:58:36 | INFO | IntentEngine | No suitable match found for 'is Rohit all good or complete worst'
+2025-11-22 14:58:36 | INFO | App | Final answer: I'm not fully sure about that. Try asking about InteraVoice, support, or pricing.
+2025-11-22 15:00:05 | INFO | DataStore | Loading FAQ data from: /workspaces/interavoice-voice-bot-/src/data/faqs.json
+2025-11-22 15:00:05 | INFO | DataStore | Loaded 2 FAQ entries
+2025-11-22 15:00:05 | INFO | IntentEngine | IntentEngine initialized with threshold 0.55
+2025-11-22 15:00:28 | INFO | DataStore | Loading FAQ data from: /workspaces/interavoice-voice-bot-/src/data/faqs.json
+2025-11-22 15:00:28 | INFO | DataStore | Loaded 2 FAQ entries
+2025-11-22 15:00:28 | INFO | IntentEngine | IntentEngine initialized with threshold 0.55
+2025-11-22 15:00:34 | INFO | DataStore | Loading FAQ data from: /workspaces/interavoice-voice-bot-/src/data/faqs.json
+2025-11-22 15:00:34 | INFO | DataStore | Loaded 2 FAQ entries
+2025-11-22 15:00:34 | INFO | IntentEngine | IntentEngine initialized with threshold 0.55
+2025-11-22 15:00:36 | INFO | DataStore | Loading FAQ data from: /workspaces/interavoice-voice-bot-/src/data/faqs.json
+2025-11-22 15:00:36 | INFO | DataStore | Loaded 2 FAQ entries
+2025-11-22 15:00:36 | INFO | IntentEngine | IntentEngine initialized with threshold 0.55
+2025-11-22 15:00:38 | INFO | DataStore | Loading FAQ data from: /workspaces/interavoice-voice-bot-/src/data/faqs.json
+2025-11-22 15:00:38 | INFO | DataStore | Loaded 2 FAQ entries
+2025-11-22 15:00:38 | INFO | IntentEngine | IntentEngine initialized with threshold 0.55
+2025-11-22 15:00:40 | INFO | DataStore | Loading FAQ data from: /workspaces/interavoice-voice-bot-/src/data/faqs.json
+2025-11-22 15:00:40 | INFO | DataStore | Loaded 2 FAQ entries
+2025-11-22 15:00:40 | INFO | IntentEngine | IntentEngine initialized with threshold 0.55
+2025-11-22 15:00:43 | INFO | DataStore | Loading FAQ data from: /workspaces/interavoice-voice-bot-/src/data/faqs.json
+2025-11-22 15:00:43 | INFO | DataStore | Loaded 2 FAQ entries
+2025-11-22 15:00:43 | INFO | IntentEngine | IntentEngine initialized with threshold 0.55
+2025-11-22 15:16:00 | INFO | DataStore | Loading FAQ data from: /workspaces/interavoice-voice-bot-/src/data/faqs.json
+2025-11-22 15:16:00 | INFO | DataStore | Loaded 2 FAQ entries
+2025-11-22 15:16:00 | INFO | IntentEngine | IntentEngine initialized with threshold 0.55
+2025-11-22 15:16:00 | INFO | DataStore | Loading FAQ data from: /workspaces/interavoice-voice-bot-/src/data/faqs.json
+2025-11-22 15:16:00 | INFO | DataStore | Loaded 2 FAQ entries
+2025-11-22 15:16:00 | INFO | IntentEngine | IntentEngine initialized with threshold 0.55
+2025-11-22 15:16:19 | INFO | App | Serving UI page
+2025-11-22 15:16:56 | INFO | App | Processing audio file: blob
+2025-11-22 15:16:56 | ERROR | App | Unexpected error in speech-to-text: Audio file could not be read as PCM WAV, AIFF/AIFF-C, or Native FLAC; check if file is corrupted or in another format
+2025-11-22 15:17:15 | INFO | App | Processing audio file: blob
+2025-11-22 15:17:15 | ERROR | App | Unexpected error in speech-to-text: Audio file could not be read as PCM WAV, AIFF/AIFF-C, or Native FLAC; check if file is corrupted or in another format
+2025-11-22 15:18:03 | INFO | App | Processing audio file: blob
+2025-11-22 15:18:03 | ERROR | App | Unexpected error in speech-to-text: Audio file could not be read as PCM WAV, AIFF/AIFF-C, or Native FLAC; check if file is corrupted or in another format
+2025-11-22 15:19:00 | INFO | App | Processing audio file: blob
+2025-11-22 15:19:00 | ERROR | App | Unexpected error in speech-to-text: Audio file could not be read as PCM WAV, AIFF/AIFF-C, or Native FLAC; check if file is corrupted or in another format
+2025-11-22 15:29:29 | INFO | DataStore | Loading FAQ data from: /workspaces/interavoice-voice-bot-/src/data/faqs.json
+2025-11-22 15:29:29 | INFO | DataStore | Loaded 2 FAQ entries
+2025-11-22 15:29:29 | INFO | IntentEngine | IntentEngine initialized with threshold 0.55
+2025-11-22 15:29:29 | INFO | DataStore | Loading FAQ data from: /workspaces/interavoice-voice-bot-/src/data/faqs.json
+2025-11-22 15:29:29 | INFO | DataStore | Loaded 2 FAQ entries
+2025-11-22 15:29:29 | INFO | IntentEngine | IntentEngine initialized with threshold 0.55
+2025-11-22 15:29:54 | INFO | App | Serving UI page
+2025-11-22 15:30:07 | INFO | App | Serving UI page
+2025-11-22 15:30:20 | INFO | App | Processing audio file: blob, size: 135536 bytes
+2025-11-22 15:30:20 | ERROR | App | Error processing audio: Audio file could not be read as PCM WAV, AIFF/AIFF-C, or Native FLAC; check if file is corrupted or in another format
+2025-11-22 15:30:31 | INFO | App | Processing audio file: blob, size: 45698 bytes
+2025-11-22 15:30:31 | ERROR | App | Error processing audio: Audio file could not be read as PCM WAV, AIFF/AIFF-C, or Native FLAC; check if file is corrupted or in another format
+2025-11-22 15:30:42 | INFO | App | Received user message: what is AI
+2025-11-22 15:30:42 | INFO | IntentEngine | Finding intent for: what is AI
+2025-11-22 15:30:42 | INFO | IntentEngine | Compared with 'What is InteraVoice?' | Score 0.67
+2025-11-22 15:30:42 | INFO | IntentEngine | Compared with 'How much does it cost?' | Score 0.31
+2025-11-22 15:30:42 | INFO | IntentEngine | Match found: 'What is InteraVoice?' (score 0.67)
+2025-11-22 15:30:42 | INFO | App | Final answer: InteraVoice is a voice-enabled AI assistant designed to help with customer support and FAQs.
+2025-11-22 15:31:02 | INFO | App | Received user message: WHAT IS AI
+2025-11-22 15:31:02 | INFO | IntentEngine | Finding intent for: WHAT IS AI
+2025-11-22 15:31:02 | INFO | IntentEngine | Compared with 'What is InteraVoice?' | Score 0.67
+2025-11-22 15:31:02 | INFO | IntentEngine | Compared with 'How much does it cost?' | Score 0.31
+2025-11-22 15:31:02 | INFO | IntentEngine | Match found: 'What is InteraVoice?' (score 0.67)
+2025-11-22 15:31:02 | INFO | App | Final answer: InteraVoice is a voice-enabled AI assistant designed to help with customer support and FAQs.
