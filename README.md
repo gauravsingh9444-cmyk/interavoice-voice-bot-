@@ -63,6 +63,7 @@ interavoice-voice-bot-/
 │  ├─ app.py              # Flask app, routes and API
 │  ├─ datastore.py        # loads and exposes FAQ data
 │  ├─ intent_engine.py    # simple NLU / intent matching logic
+|  ├─ gpt_service.py 
 │  └─ logger_utils.py     # shared logging setup
 ├─ templates/
 │  └─ interavoice.html    # main chat UI page
